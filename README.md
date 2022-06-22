@@ -11,7 +11,7 @@ Repositorio de código para el trabajo práctico final de la materia Análisis d
 	- [2.b Análisis_de_Datos.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/2.b%20An%C3%A1lisis_de_Datos.ipynb): se agrega el análisis de outliers, boxplots, matriz de correlación e información mutua.
 
 - **Limpieza de los datos**:
- - [3.a Análisis_de_Datos_Spotify_Data-Masker.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/3.a%20An%C3%A1lisis_de_Datos_Spotify_Data-Masker.ipynb): Experimentación con valores faltantes utilizando el script propuesto por la cátedra.
+	- [3.a Análisis_de_Datos_Spotify_Data-Masker.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/3.a%20An%C3%A1lisis_de_Datos_Spotify_Data-Masker.ipynb): Experimentación con valores faltantes utilizando el script propuesto por la cátedra.
 
 - **Pre-procesado y experimentación**:
 	- [3b-4. Preprocesado y experimentación.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/3b-4.%20Preprocesado%20y%20experimentaci%C3%B3n.ipynb): Se generan los pipelines de pre-procesado y se experimenta con diferentes modelos de aprendizaje automático.
