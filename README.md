@@ -15,6 +15,7 @@ Repositorio de código para el trabajo práctico final de la materia Análisis d
 
 - **Pre-procesado y experimentación**:
 	- [3b-4. Preprocesado y experimentación.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/3b-4.%20Preprocesado%20y%20experimentaci%C3%B3n.ipynb): Se generan los pipelines de pre-procesado y se experimenta con diferentes modelos de aprendizaje automático.
+	- [3b-4b. Preprocesado y experimentación.ipynb](https://github.com/ldidone/analisis_de_datos_CEIA_TP/blob/main/3b-4b.%20Preprocesado%20y%20experimentaci%C3%B3n.ipynb): Se experimenta con diferentes modelos de aprendizaje automático utilizando la librería de AutoML Pycaret.
 
 > Los modelos entrenados se pueden encontrar haciendo click [aquí](https://github.com/ldidone/analisis_de_datos_CEIA_TP/tree/main/models).
 
